@@ -1,4 +1,4 @@
-# Myaamia Word of the Day
+# ILDA Word of the Day
 
 This simple script **selects a random word** (and sentence, if applicable) from an *ILDA Dictionary JSON file* and **sends it to a Discord channel via a webhook**.
 
