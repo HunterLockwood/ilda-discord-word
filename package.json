@@ -1,0 +1,18 @@
+{
+  "name": "myaamia_daily_word",
+  "version": "0.0.1",
+  "description": "A random word of the day, as an effort in learning about Discord webhooks and Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hurray, no test specified!\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "miami-illinois"
+  ],
+  "author": "Dr. Hunter Thompson Lockwood",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
