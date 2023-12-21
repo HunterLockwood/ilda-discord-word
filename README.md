@@ -20,6 +20,7 @@ It was created for several purposes:
 5. Customize it & expand it; the limit is your imagination.
   - Change the greeting.
   - Replace the image, unless you love Rusty.
+  - Send the message to Slack instead of Discord.
   - Place it in a `crontab` to schedule it.
   - ...or do whatever you want!
 
